@@ -1,5 +1,6 @@
 scikit-learn
-Flask
+flask
 pandas
 numpy
 matplotlib
+gunicorn
